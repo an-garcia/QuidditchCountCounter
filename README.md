@@ -1,4 +1,4 @@
-Stock Tracker
+Quidditch Count Counter
 ========
 
 ![alt tag](https://github.com/an-garcia/QuidditchCountCounter/blob/master/readmeImages/Screenshot_1481836147.png)
