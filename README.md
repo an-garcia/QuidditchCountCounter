@@ -1,7 +1,7 @@
 Quidditch Count Counter
 ========
 
-![alt tag](https://github.com/an-garcia/QuidditchCountCounter/blob/master/readmeImages/Screenshot_1481836147.png)
+![Scheme](/readmeImages/Screenshot_1481836147.png)
 
 
 Android application to track the score of a quidditch game.
